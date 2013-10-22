@@ -1,6 +1,6 @@
 四次元（原微次元） weiciyuan
 =========
-Sina Weibo Android App, require Android 4.1+, GPL v3 License
+QQ Weibo Android App, require Android 4.1+, GPL v3 License
 
 <a href="https://play.google.com/store/apps/details?id=org.qii.weiciyuan">
   <img alt="Android app on Google Play"
@@ -16,36 +16,14 @@ Sina Weibo Android App, require Android 4.1+, GPL v3 License
 --------------
 https://github.com/qii/weiciyuan/wiki
 
-黄粱一梦二十年
+午夜怨曲
 --------------
-黄粱一梦二十年
-
-依旧是不懂爱也不懂情
-
-写歌的人假正经阿
-
-听歌的人最无情
-
-于是歌手从吉林到北京
-
-从台北到上海
-
-伦敦到马德里
-
-去寻找他梦中的青鸟
-
-郎对花 姐对花 是一段不知道是怎么开始
-
-也不知道要怎么样结束的旅程 一对对到人间
-
-他发觉…这世间…有点假 这个人间有点假
-
-可我莫名的 爱上了她… 可我莫名爱上了她
-
-莫非再过二十年
-
-依旧是不懂爱也不懂情
-
-写歌的人断了魂阿
-
-听歌的人最无情
+从来不知想拥有多少的理想 还离不开种种困忧
+勉强去掩饰失意的感觉 再次听到昨日的冷嘲
+徘徊于街中恐怕只得孤独 寻回思忆中的碎片
+变作了一堆草芥风中散 与你奏过午夜的怨曲
+总有挫折打碎我的心 紧抱过去抑压了的手 我与你也彼此一起艰苦过
+写上每句冰冷冷的诗 不会放弃高唱这首歌 我与你也彼此真的相识过
+从回忆中找不到天真的笑声 曾留不底心中斗争
+每次去担当失意的主角 冷笑变作故事的作者
+障碍能冲破
